@@ -10,19 +10,19 @@
 
 - 💬 Ask me about **Data Structures and Algorithms, Web Development, Machine Learning**
 
-- 📫 How to reach me **iamakashrout@gmail.com**
+- 📫 How to reach me **kamalchandra265@gmail.com**
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/14w7rrUOnSJPKcUn5-uALGjHrs4GR4TzS/view](https://drive.google.com/file/d/14w7rrUOnSJPKcUn5-uALGjHrs4GR4TzS/view)
+- 📄 Know about my experiences [https://drive.google.com/file/d/14w7rrUOnSJPKcUn5-uALGjHrs4GR4TzS/view]()
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/akash-rout-82a38622a" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="akash-rout-82a38622a" height="30" width="40" /></a>
-<a href="https://fb.com/iamakashrout" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="kamal" height="30" width="40" /></a>
-<a href="https://instagram.com/iamakashrout" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="kamal" height="30" width="40" /></a>
-<a href="https://www.youtube.com/@iamakashrout" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="@kamal" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/kamalchandra" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="akash-rout-82a38622a" height="30" width="40" /></a>
+<a href="https://fb.com/kamal" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="kamal" height="30" width="40" /></a>
+<a href="https://instagram.com/@kamal_chandra_official1" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="kamal" height="30" width="40" /></a>
+<a href="https://www.youtube.com/@kamal" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="@kamal" height="30" width="40" /></a>
 <a href="https://www.codechef.com/users/akash_rout" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/codechef.svg" alt="akash_rout" height="30" width="40" /></a>
-<a href="https://www.leetcode.com/iamakashrout" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="iamakashrout" height="30" width="40" /></a>
-<a href="https://auth.geeksforgeeks.org/user/iamakashrout" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg" alt="iamakashrout" height="30" width="40" /></a>
+<a href="https://www.leetcode.com/kamal_chandra" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="iamakashrout" height="30" width="40" /></a>
+<a href="https://auth.geeksforgeeks.org/user/kamal" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg" alt="iamakashrout" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
