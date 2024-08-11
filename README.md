@@ -4,9 +4,9 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=iamakashrout&label=Profile%20views&color=0e75b6&style=flat" alt="KamalChandra" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=iamakashrout&theme=dracula&margin-w=15&margin-h=15" alt="iamakashrout" /></a> </p>
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=iamakashrout&theme=dracula&margin-w=15&margin-h=15" alt="kamal" /></a> </p>
 
-- 👨‍💻 All of my projects are available at [https://akashrout.vercel.app](https://akashrout.vercel.app)
+- 👨‍💻 All of my projects are available at [https://kamal.vercel.app]()
 
 - 💬 Ask me about **Data Structures and Algorithms, Web Development, Machine Learning**
 
